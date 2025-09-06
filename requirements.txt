@@ -1,0 +1,6 @@
+torch>=2.2
+transformers>=4.36
+cryptography>=41
+requests>=2.31
+rich>=13
+click>=8
