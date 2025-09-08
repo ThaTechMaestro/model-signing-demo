@@ -1,6 +1,6 @@
 # Model Signing Demo
 
-Practical demonstration of cryptographic model signing to prevent ML inference attacks and establish trust in AI deployments.
+Demo of cryptographic model signing to prevent ML inference attacks and establish trust in AI deployments.
 
 ## The Problem
 
