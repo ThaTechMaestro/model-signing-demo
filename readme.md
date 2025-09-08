@@ -54,7 +54,7 @@ Certificate Authority → Developer Certificate → Signed Model → Verified Lo
 [Video]()
 
 **WriteUp:**
-[Link]()
+[Link]() (To be added)
 
 ## Quick Start
 
@@ -141,8 +141,6 @@ This trust model creates tensions for practical deployment:
 - Certificate transparency for CA oversight
 - Hardware Security Modules for key protection
 - Multi-CA validation for redundancy
-
-The core value of this demo is showing that cryptographic verification is possible for ML systems.
 
 ## Requirements
 
