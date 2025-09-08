@@ -28,7 +28,7 @@ def find_model_file(model_dir: str) -> str:
     raise FileNotFoundError(f"No model file found in {model_dir}")
 
 def main():
-    console.rule("[bold cyan]AI Model Signing Demonstration[/bold cyan]")
+    console.rule("[bold cyan]AI Model Signing Demo[/bold cyan]")
     Path("models").mkdir(exist_ok=True)
 
     console.print("[yellow]Setting up certificates and models...[/yellow]")
@@ -69,7 +69,7 @@ def main():
     
     show_attack_summary()
 
-    console.rule("[bold cyan]Demonstration Complete[/bold cyan]")
+    console.rule("[bold cyan]Demo Complete[/bold cyan]")
 
 if __name__ == "__main__":
     main()
