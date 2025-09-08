@@ -51,7 +51,7 @@ Certificate Authority → Developer Certificate → Signed Model → Verified Lo
 ## Demo Resources
 
 **Live Demo:**
-[Video]()
+[Video](https://youtu.be/a_mig6vx2ks?si=pJJUAuRBGw5Zpj6s)
 
 **WriteUp:**
 [Link]() (To be added)
